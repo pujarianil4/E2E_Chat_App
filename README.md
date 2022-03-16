@@ -75,12 +75,6 @@ Backend - [Socket.io ](https://socket.io/docs/v4/)
 Javascript, HTML, CSS, ReactJs
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-
 ## Lessons Learned
 
 How the chat application which we all are using in our daily life are securely transfer our message from one end to another end.
@@ -96,10 +90,10 @@ Chat Screen
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at pujarianil4@gmail.com
 
 
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [@AnilPujari](https://www.linkedin.com/in/anil-pujari-644282112/)
 
